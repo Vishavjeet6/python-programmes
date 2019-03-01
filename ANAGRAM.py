@@ -55,9 +55,7 @@ def search(pat, txt):
 txt = input()
 pat = input()	
 search(pat, txt) 
-
-# This code is contributed 
-# by Upendra Singh Bartwal 
+ 
 
 
 
